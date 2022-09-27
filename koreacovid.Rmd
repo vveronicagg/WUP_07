@@ -53,6 +53,13 @@ barchartGC(~result + Sex,data=kRdata, type="percent")
   
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+The numerical results state that men are dying off greater than two times faster then females.
 
 ## Inferential results 
 
