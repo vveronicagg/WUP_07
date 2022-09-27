@@ -72,3 +72,4 @@ This test states that men are 2.3 time more likely to die than woman. The confid
 
 ## Conclusions
 
+From using the numerical,graphical, and inferential results states that men are dying quicker than woman. These tests show that death is not independent from sex. Because if it was than male and female would be dying the same.
