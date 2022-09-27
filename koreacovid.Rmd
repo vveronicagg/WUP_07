@@ -24,7 +24,7 @@ state of a patient must be died or alive - we adjust that as well
   
 # Question 1 - Is dying independent of sex
 
-
+We want to figure out if dying is independent on sex or not. To figure this out we will be using graphical, numerical,and inferential results.
 
 
 Table of patients:
